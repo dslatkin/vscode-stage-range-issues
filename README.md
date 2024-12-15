@@ -15,7 +15,7 @@ issue](https://github.com/microsoft/vscode/issues/235904).
 6. Choose "Git: Stage Selected Ranges" again
    - Now you can see unexpected changes are staged
 
-## Screenshots following this steps
+## Screenshots following these steps
 
 <details>
 
